@@ -1,6 +1,6 @@
 # Atividades_Gerais_SQL
 
-Esse repositório é destinado a responder a algumas perguntas de negócio usando a Linguagem SQL.
+Esse repositório é destinado a responder algumas perguntas de negócio usando a Linguagem SQL.
 
 # Base de Dados
 Utilizei a Base de Dados da empresa Olist.
