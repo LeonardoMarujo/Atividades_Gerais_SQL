@@ -12,7 +12,7 @@ Abaixo temos o Modelo Lógico do Banco de Dados.
 ![Modelo Lógico](Modelo_Logico/banco_dados_olist.png)
 
 # Perguntas
-![Perguntas](Atividades_Gerais_Modulo2.png)
+![Perguntas](Perguntas/Atividades_Gerais_Modulo2.png)
 
 
 
