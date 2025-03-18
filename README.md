@@ -5,9 +5,15 @@ Esse repositório é destinado a responder algumas perguntas de negócio usando 
 # Base de Dados
 Utilizei a Base de Dados da empresa Olist.
 
-O arquivo de base de dados está disponível no Google Drive. [Base de Dados Olist](https://drive.google.com/file/d/1R_JJUxY89uMzwxapclUQzD4ZfEB474Dg/view?usp=drive_link)
+O arquivo da base de dados está disponível no Google Drive. [Base de Dados Olist](https://drive.google.com/file/d/1R_JJUxY89uMzwxapclUQzD4ZfEB474Dg/view?usp=drive_link).
 
-![Texto alternativo](caminho/para/a/imagem.png)
+Deixo a seguir também o Modelo Lógico do Banco de Dados.
+
+![Modelo Lógico](Modelo_Logico/banco_dados_olist.png)
+
+# Perguntas
+
+
 
 
 
