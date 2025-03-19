@@ -17,7 +17,7 @@ Abaixo temos o Modelo Lógico do Banco de Dados.
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" width="60" height="60" />        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60" height="60" />
 
 
-# Perguntas
+# Perguntas de Negócio
 ![Perguntas](Perguntas/Atividades_Gerais_Modulo2.png)
 
 # Acesso à Resolução
